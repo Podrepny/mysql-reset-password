@@ -1,5 +1,5 @@
 # mysql-reset-password
-Automation root user password reset - MySQL 5.7
+Automation root user password reset - MySQL 5.7 (Ubuntu 18.04 bionic)
 
 # Usage 1
 Copy and paste code as root.
